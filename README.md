@@ -2,4 +2,4 @@
 1.Personal Development
 2. Webisote Development 
 3. hacking 
-this website is only a front-end Development for Practice.
+this is a front-end website using Bootstrap 5.
