@@ -1,5 +1,5 @@
 # pro-it.E-Learning : 
-this is a front-end website using Bootstrap 5.
+a front-end website using Bootstrap 5.
 <hr> <br>
 An E-Learning Website for Students who can learn about 
 1.Personal Development
