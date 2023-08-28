@@ -25,7 +25,7 @@ Welcome to Computer Skills Hub - An <b>'Pro-It' </b>Website, your one-stop e-lea
 
 ## Getting Started
 
-1. Visit the [Pro-It Learning ]((https://ashishpatil7507.github.io/pro-it.E-Learning/).
+1. Visit the [Pro-It Learning ](https://ashishpatil7507.github.io/pro-it.E-Learning/).
 2. Browse through web and select the one that interests you.
 3. Follow along with the tutorials and start enhancing your skills!
 
