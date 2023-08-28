@@ -37,6 +37,4 @@ Check out the live demo of the app [here](https://ashishpatil7507.github.io/pro-
 
 Stay updated with our latest announcements and resources by following us on [Twitter](https://twitter.com/ashishpatil7507/) and [LinkedIn](https://linkedin.com/in/ashishpatil7507/).
 
-![Website Stats](https://img.shields.io/website?url=https%3A%2F%2Fyourwebsiteurl.com%2F)
-
 Happy learning and exploring the world of computer skills! ✨
