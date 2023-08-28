@@ -1,7 +1,5 @@
 # Computer Skills Hub
 
-![Website Screenshot](7.png) <!-- You can replace this with a screenshot of your website -->
-
 Welcome to Computer Skills Hub - An <b>'Pro-It' </b>Website, your one-stop e-learning platform for computer-related students! 🖥️ Here, you'll find comprehensive resources to learn web designing, app development, hacking, and documentation—all using the power of Bootstrap.
 
 ## What We Offer
