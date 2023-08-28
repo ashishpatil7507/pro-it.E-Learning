@@ -1,9 +1,6 @@
 # Computer Skills Hub
 
 Welcome to Computer Skills Hub - An <b>'Pro-It' </b>Website, your one-stop e-learning platform for computer-related students! 🖥️ Here, you'll find comprehensive resources to learn web designing, app development, hacking, and documentation—all using the power of Bootstrap.
-## Demo
-
-Check out the live demo of the app [here](https://ashishpatil7507.github.io/pro-it.E-Learning/).
 
 ## What We Offer
 
@@ -28,7 +25,7 @@ Check out the live demo of the app [here](https://ashishpatil7507.github.io/pro-
 
 ## Getting Started
 
-1. Visit the [Pro-It Learning ](https://yourwebsiteurl.com).
+1. Visit the [Pro-It Learning ]((https://ashishpatil7507.github.io/pro-it.E-Learning/).
 2. Browse through web and select the one that interests you.
 3. Follow along with the tutorials and start enhancing your skills!
 
