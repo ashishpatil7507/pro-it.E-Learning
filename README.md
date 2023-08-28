@@ -32,7 +32,7 @@ Welcome to Computer Skills Hub - An <b>'Pro-It' </b>Website, your one-stop e-lea
 
 ## Let's Connect
 
-Stay updated with our latest announcements and resources by following us on [Twitter](https://twitter.com/ashishpatil7507/) and [LinkedIn](https://linkedin.com/in/yourusername).
+Stay updated with our latest announcements and resources by following us on [Twitter](https://twitter.com/ashishpatil7507/) and [LinkedIn](https://linkedin.com/in/ashishpatil7507/).
 
 ![Website Stats](https://img.shields.io/website?url=https%3A%2F%2Fyourwebsiteurl.com%2F)
 
