@@ -9,13 +9,6 @@ Welcome to Computer Skills Hub - An <b>'Pro-It' </b>Website, your one-stop e-lea
 - 🕵️ **Hacking Essentials**: Understand ethical hacking and cybersecurity principles. Learn how to secure your applications and websites.
 - 📝 **Documentation Made Easy**: Master the art of technical documentation using Bootstrap's clean and organized components.
 
-## Courses
-
-- 🌐 [Web Designing with Bootstrap](web_design_course_link): Create stunning websites with Bootstrap's responsive features.
-- 📱 [App Development with Bootstrap](app_dev_course_link): Build apps that work seamlessly across devices and platforms.
-- 🕵️ [Ethical Hacking Basics](hacking_course_link): Learn about cybersecurity and how to safeguard your digital projects.
-- 📝 [Technical Documentation Mastery](documentation_course_link): Enhance your communication skills through clear and effective documentation.
-
 ## Features
 
 - 📚 Interactive and engaging learning materials.
